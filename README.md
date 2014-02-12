@@ -1,16 +1,16 @@
 The `gh-pages` branch contains generated demo pages for http://angular-ui.github.com/bootstrap as well as build results.
 
-#Installation
+#安装
 
-All the directives in this repository depend only on AngularJS and bootstrap's CSS. There is no need to include any third-party JavaScript files.
+所有在这个库中的指令只依赖AngularJS和bootstrap的CSS。没有必要引入任何第三方JavaScript文件。
 
-The bootstrap CSS can be referenced from a CDN: http://www.bootstrapcdn.com/
+bootstrap CSS可以从CDN中引用: http://www.bootstrapcdn.com/
 
 Then it is enough to include one of the build files described below.
 
-##Build files
+##构建
 
-In this repository one can find build files with the following names:
+在这个仓库可以发现具有以下名称的构建文件:
 
 * ui-bootstrap-[version].js
 * ui-bootstrap-tpls-[version].js
