@@ -10,12 +10,12 @@
 
 Do you want to see directives in action? Visit http://angular-ui.github.io/bootstrap/!
 
-## Installation
+## 安装
 
 Installation is easy as angular-ui-bootstrap has minimal dependencies - only the AngularJS and Bootstrap's CSS are required.
 After downloading dependencies (or better yet, referencing them from your favourite CDN) you need to download build version of this project. All the files and their purposes are described here: 
 https://github.com/angular-ui/bootstrap/tree/gh-pages#build-files
-Don't worry, if you are not sure which file to take, opt for `ui-bootstrap-tpls-[version].min.js`.
+不要担心，如果你不确定要使用哪个文件， 选择 `ui-bootstrap-tpls-[version].min.js`.
 
 When you are done downloading all the dependencies and project files the only remaining part is to add dependencies on the `ui.bootstrap` AngularJS module:
 
